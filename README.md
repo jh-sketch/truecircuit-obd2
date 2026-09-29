@@ -2,7 +2,7 @@
 
 A Python tool that reads live vehicle data over OBD2, logs it to CSV, and charts it.
 
-Built as part of [TrueCircuit](https://www.instagram.com/), my automotive technology project combining 17 years of hands-on diagnostic experience with software.
+Built as part of [TrueCircuit](https://www.instagram.com/thetruecircuit), my automotive technology project combining 17 years of hands-on diagnostic experience with software.
 
 ## Features
 
