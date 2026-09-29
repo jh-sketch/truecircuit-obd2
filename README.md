@@ -37,6 +37,3 @@ To test without a car, run the emulator (`elm`) in one terminal and use the port
 
 The emulator's pseudo-port fails baud-rate auto-detection on macOS. Passing `baudrate=38400` explicitly to `obd.OBD()` fixes it.
 
-## What I learned
-
-(Add 2-3 honest sentences here.)
